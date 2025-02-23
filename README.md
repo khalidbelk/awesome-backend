@@ -21,6 +21,7 @@ A curated list of awesome backend tools, libraries and resources.
 - [NodeJS](https://github.com/nodejs/node) : a cross-platform, open-source JavaScript runtime environment.
 - [Microsoft ASP.NET Core](https://github.com/dotnet/aspnetcore) : a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [Rails](https://rubyonrails.org/) : a server-side web application framework written in Ruby.
+- [Spring Boot](https://github.com/spring-projects/spring-boot) : a tool that makes developing web applications and microservices with Java Spring Framework faster and easier.
 - [Django](https://www.djangoproject.com/) : a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 - [Phoenix](https://www.phoenixframework.org/) : a web framework for the Elixir programming language that gives you peace of mind from development to production.
 - [Shuttle](https://github.com/shuttle-hq/shuttle) : fastest way to build & ship a backend without writing any infrastructure files in Rust.
@@ -98,12 +99,16 @@ Python-related:
 ### Testing
 
 **API testing**
+
 - [Postman](https://www.postman.com/) : a platform for collaborative API development.
 
 **Unit tests** :
+
 - [Jest](https://github.com/jestjs/jest) : a delightful JavaScript Testing Framework with a focus on simplicity.
 - [Mocha](https://github.com/mochajs/mocha) : a feature-rich JavaScript test framework running on Node.js and in the browser.
 - [Chai](https://github.com/chaijs/chai) : a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+- [JUnit](https://github.com/junit-team/junit4) : a programmer-oriented testing framework for Java.
+- [Mockito](https://github.com/mockito/mockito) : a mocking framework for unit tests written in Java.
 
 **Other**
 
