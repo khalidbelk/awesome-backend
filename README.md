@@ -138,7 +138,7 @@ A curated list of awesome backend tools, libraries and resources.
 
 ### Documentation
 
-- [Dogyxen](https://github.com/doxygen/doxygen) : a widely-used and the de facto standard documentation generation tool for C++ (supports other languages).
+- [Doxygen](https://github.com/doxygen/doxygen) : a widely-used and the de facto standard documentation generation tool for C++ (supports other languages).
 - [Javadoc](https://en.wikipedia.org/wiki/Javadoc) : an API documentation generator for the Java programming language.
 - [Swagger](https://github.com/swagger-api/swagger-ui) : a set of open-source tools for designing, building, documenting, and consuming RESTful APIs.
 - [Postman API Documentation tool](https://www.postman.com/api-documentation-tool/) : a tool to generate beautiful, machine-readable documentation for your API and automatically keep it up to date.
