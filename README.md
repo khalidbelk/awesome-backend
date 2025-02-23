@@ -55,10 +55,10 @@ Python-related:
 
 - [MongoDB](https://github.com/mongodb/mongo) : an open-source, document-oriented database management system.
 - [Apache CouchDB](https://github.com/apache/couchdb) : an open-source document database that collects and stores data in JSON-based document formats.
-- [Redis](https://github.com/redis/redis) : an open-source, in-memory, key-value store that is used primarily as an application cache or quick-response database.
 
 **Other Databases**
 
+- [Redis](https://github.com/redis/redis) : an open-source, in-memory, key-value store that is used primarily as an application cache or quick-response database.
 - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) : a managed NoSQL database service provided by AWS that supports key-value and document data structures.
 - [Cassandra](https://cassandra.apache.org/_/index.html) : a distributed NoSQL database that delivers continuous availability, high performance, & linear scalability.
 
