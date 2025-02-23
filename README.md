@@ -56,6 +56,12 @@ Python-related:
 - [MongoDB](https://github.com/mongodb/mongo) : an open-source, document-oriented database management system.
 - [Apache CouchDB](https://github.com/apache/couchdb) : an open-source document database that collects and stores data in JSON-based document formats.
 
+**Analytical Databases**
+
+- [DuckDB](https://github.com/duckdb/duckdb) : a high-performance analytical database system. It is designed to be fast, reliable, portable, and easy to use.
+- [Apache Druid](https://github.com/apache/druid/) : a high performance, real-time analytics database that delivers sub-second queries on streaming and batch data at scale and under load.
+- [Apache Pinot](https://github.com/apache/pinot) : a real-time distributed OLAP datastore, purpose-built to provide ultra low-latency analytics at extremely high throughput.
+
 **Other Databases**
 
 - [Redis](https://github.com/redis/redis) : an open-source, in-memory, key-value store that is used primarily as an application cache or quick-response database.
