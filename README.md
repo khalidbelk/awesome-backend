@@ -55,7 +55,7 @@ Python-related:
 
 - [MongoDB](https://github.com/mongodb/mongo) : an open-source, document-oriented database management system.
 - [Apache CouchDB](https://github.com/apache/couchdb) : an open-source document database that collects and stores data in JSON-based document formats.
-- [Redis](https://github.com/redis/redis) : an open source, in-memory, key-value store that is used primarily as an application cache or quick-response database.
+- [Redis](https://github.com/redis/redis) : an open-source, in-memory, key-value store that is used primarily as an application cache or quick-response database.
 
 **Other Databases**
 
@@ -134,16 +134,16 @@ Python-related:
 
 - [Jenkins](https://www.jenkins.io/) : an open-source automation server which enables developers around the world to reliably build, test, and deploy their software.
 - [Github Actions](https://github.com/features/actions) : Automate, customize, and execute your software development workflows right in your repository.
-- [Act](https://github.com/nektos/act) : Run your GitHub Actions locally 🚀
+- [Act](https://github.com/nektos/act) : a tool to run your GitHub Actions locally 🚀.
 - [Portainer](https://github.com/portainer/portainer) : a container management software for Docker, Podman and Kubernetes.
-- [Docker](https://www.docker.com/) : a platform designed to help developers build, share, and run container applications 🐳
+- [Docker](https://www.docker.com/) : a platform designed to help developers build, share, and run container applications 🐳.
 - [Kubernetes (k8s)](https://github.com/kubernetes/kubernetes) : an open-source container orchestration system for automating software deployment, scaling, and management.
 
 **IaC (Infrastructure as Code)**
 
 - [Ansible](https://github.com/ansible/ansible) : an open-source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes.
 - [Terraform](https://github.com/hashicorp/terraform) : an infrastructure as code tool that enables you to safely and predictably provision and manage infrastructure in any cloud.
-- [Chef](https://github.com/chef/chef) : a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale
+- [Chef](https://github.com/chef/chef) : a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale.
 
 
 **Releases**
