@@ -23,6 +23,12 @@ A curated list of awesome backend tools, libraries and resources.
 - [Rails](https://rubyonrails.org/) : a server-side web application framework written in Ruby.
 - [Spring Boot](https://github.com/spring-projects/spring-boot) : a tool that makes developing web applications and microservices with Java Spring Framework faster and easier.
 - [Django](https://www.djangoproject.com/) : a high-level Python web framework that encourages rapid development and clean, pragmatic design.
+- [Bun](https://github.com/oven-sh/bun) : a JavaScript runtime, package manager, test runner and bundler (alternative to Node.js).
+- [Deno](https://github.com/denoland/deno) : a JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience.
+- [Gin](https://github.com/gin-gonic/gin) : A high-performance HTTP web framework written in Go, known for its speed and minimalist design.
+- [Laravel](https://github.com/laravel/laravel) : a free and open-source PHP-based web framework for building web applications.
+- [Symfony](https://github.com/symfony/symfony) : a set of reusable PHP components and a PHP framework to build web applications, APIs, microservices and web services.
+- [CakePHP](https://github.com/cakephp/cakephp) : an open-source web, rapid development PHP framework that makes building web applications simpler, faster and require less code.
 - [Phoenix](https://www.phoenixframework.org/) : a web framework for the Elixir programming language that gives you peace of mind from development to production.
 - [Shuttle](https://github.com/shuttle-hq/shuttle) : fastest way to build & ship a backend without writing any infrastructure files in Rust.
 - [AppWrite](https://github.com/appwrite/appwrite) : an open-source platform for building applications at any scale, using your preferred programming languages and tools.
