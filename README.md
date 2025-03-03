@@ -22,7 +22,8 @@ A curated list of awesome backend tools, libraries and resources.
 - [NodeJS](https://github.com/nodejs/node) : a cross-platform, open-source JavaScript runtime environment.
 - [Bun](https://github.com/oven-sh/bun) : a JavaScript runtime, package manager, test runner and bundler (alternative to Node.js).
 - [Deno](https://github.com/denoland/deno) : a JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience.
-- [ExpressJS](https://github.com/expressjs/express) : a fast, unopinionated, minimalist web framework for Node.js
+- [Elysia](https://github.com/elysiajs/elysia) : a high-performance Node.js web framework built on Bun with end-to-end type safety.
+- [ExpressJS](https://github.com/expressjs/express) : a fast, unopinionated, minimalist web framework for Node.js.
 - [AdonisJS](https://github.com/adonisjs/core) : a TypeScript-first web framework for building web apps and API servers.
 - [Fastify](https://github.com/fastify/fastify) : a fast and low overhead web framework, for Node.js.
 - [NestJS](https://github.com/nestjs/nest) : a framework for building efficient, scalable Node.js server-side applications.
@@ -197,6 +198,7 @@ A curated list of awesome backend tools, libraries and resources.
 - [Apache Kafka](https://kafka.apache.org/) : a distributed event streaming platform capable of handling high-throughput data feeds.
 
 **Libraries**
+
 - [Better Auth](https://github.com/better-auth/better-auth) : a framework-agnostic authentication (and authorization) library for TypeScript
 - [Linguist](https://github.com/github-linguist/linguist) : a library created and used by Github to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs.
 
