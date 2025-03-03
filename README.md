@@ -1,8 +1,11 @@
-# Awesome Backend ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+<div align="center">
+    <h1>Awesome Backend</h1>
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+    <br><br>
+    <p>A curated list of awesome backend tools, libraries and resources.</p>
+</div>
 
-A curated list of awesome backend tools, libraries and resources.
-
-## Table of contents
+<br>
 
 - [Runtimes & Frameworks](#runtimes--frameworks)
 - [Databases](#databases)
