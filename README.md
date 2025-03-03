@@ -22,6 +22,7 @@ A curated list of awesome backend tools, libraries and resources.
 - [NodeJS](https://github.com/nodejs/node) : a cross-platform, open-source JavaScript runtime environment.
 - [Bun](https://github.com/oven-sh/bun) : a JavaScript runtime, package manager, test runner and bundler (alternative to Node.js).
 - [Deno](https://github.com/denoland/deno) : a JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience.
+- [Nitro](https://github.com/nitrojs/nitro) : a lightning-fast server engine eupercharging web development. 
 - [Elysia](https://github.com/elysiajs/elysia) : a high-performance Node.js web framework built on Bun with end-to-end type safety.
 - [ExpressJS](https://github.com/expressjs/express) : a fast, unopinionated, minimalist web framework for Node.js.
 - [AdonisJS](https://github.com/adonisjs/core) : a TypeScript-first web framework for building web apps and API servers.
@@ -178,9 +179,10 @@ A curated list of awesome backend tools, libraries and resources.
 
 **Hosting / Deployment**:
 
+- [NuxtHub](https://hub.nuxt.com/) : a hosting platform specifically designed for Nuxt applications with built-in features like serverless functions and edge caching.
 - [Netlify](https://www.netlify.com/) : a cloud computing platform that simplifies the building, deployment, and management of websites.
-- [Vercel](https://vercel.com/) : a cloud platform that enables developers to easily deploy and manage web applications.
 - [Glitch](glitch.com) : a collaborative online platform that allows users to create, edit, and deploy web applications using Node.js and static web technologies.
+- [Vercel](https://vercel.com/) : a cloud platform that enables developers to easily deploy and manage web applications.
 - [Heroku](https://www.heroku.com/) : a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 - [Supabase](https://supabase.com/) : an open-source Firebase alternative.
 - [Firebase](https://firebase.google.com/) : a BaaS (Backend As A Service), i.e a bunch of services there to help you build (web) apps.
@@ -199,6 +201,13 @@ A curated list of awesome backend tools, libraries and resources.
 
 **Libraries**
 
+- [JsonWebToken (JWT)](https://github.com/auth0/node-jsonwebtoken) : an implementation of JSON Web Tokens, an industry standard for representing claims securely between parties.
+- [Socket.io](https://socket.io/) : a library that enables low-latency, bidirectional and event-based communication between web clients and servers.
+- [AJV](https://ajv.js.org/) : one of the fastest JSON Schema validators that helps ensure data conforms to specified formats.
+- [Zod](https://zod.dev/) : a TypeScript-first schema declaration and validation library designed to be optimized for developer experience.
+- [Valibot](https://github.com/fabian-hiller/valibot) : a schema library that validates unknown data and ensures type safety with a tiny bundle size.
+- [Stripe](https://github.com/stripe) : a suite of payment APIs that powers commerce for online businesses of all sizes.
+- [NextAuth](https://github.com/nextauthjs/next-auth) : a complete open-source authentication solution for Next.js applications.
 - [Better Auth](https://github.com/better-auth/better-auth) : a framework-agnostic authentication (and authorization) library for TypeScript
 - [Linguist](https://github.com/github-linguist/linguist) : a library created and used by Github to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs.
 
