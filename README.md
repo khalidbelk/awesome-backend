@@ -44,7 +44,8 @@
 
 **Rust**
 - [Shuttle](https://github.com/shuttle-hq/shuttle) : fastest way to build & ship a backend without writing any infrastructure files in Rust.
-- [Axum](https://github.com/tokio-rs/axum) : route requests to handlers with a macro free API in Rust
+- [Rivet](https://github.com/rivet-gg/rivet) : an open-source solution for deploying, scaling, and operating multiplayer game servers and backend services.
+- [Axum](https://github.com/tokio-rs/axum) : an ergonomic and modular web framework built with Tokio, Tower, and Hyper in Rust.
 - [Actix](https://github.com/actix/actix-web) : a powerful, pragmatic, and extremely fast web framework for Rust.
 
 **Java**
