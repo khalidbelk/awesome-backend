@@ -120,6 +120,7 @@
 **API testing**
 
 - [Postman](https://www.postman.com/) : a platform for collaborative API development.
+- [Keploy](https://keploy.io/regression-testing) : an open-source API regression testing tool that records real API traffic and replays it as tests with dependency mocks generated automatically.
 
 **Unit tests** :
 
